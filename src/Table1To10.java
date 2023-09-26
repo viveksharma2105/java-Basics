@@ -8,6 +8,7 @@ public class Table1To10 {
                 System.out.print(" ");
             }
             System.out.println();
+            System.out.println("for commit 2");
         }
     }
 }
